@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816967412765",
+    "project_id": "zoom-clone-10e69",
+    "storage_bucket": "zoom-clone-10e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816967412765:android:ceaee8335f8cb34d00aaf4",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816967412765-alfkdtuso72ll3gndu5843dp8cn3s9ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2P0rrRlcnfZ8gPCJf_GTWXqvlK8CY88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816967412765-8ad9gmsvtt1mtirjljdquu94ern3cnuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
