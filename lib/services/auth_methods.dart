@@ -11,6 +11,8 @@ class AuthMethods {
 
   AuthMethods({required this.context});
 
+  Stream<User?> get authChanges => _auth.authStateChanges();
+
   Future<bool> signInWithGoogle() async {
     bool res = false;
     try {
